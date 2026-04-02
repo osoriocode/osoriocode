@@ -16,7 +16,7 @@ C • C++ • Java • SQL Databases
 HTML • CSS • JavaScript • Python  
 
 ### 📫 Contact
-- **LinkedIn:** _www.linkedin.com/in/leonel-osorio-551420400_  
+- **LinkedIn:** _https://www.linkedin.com/in/osoriocode/_  
 - **Email:** _Leonel.osorio18@gmail.com_  
 
 ---
