@@ -17,7 +17,7 @@ HTML • CSS • JavaScript • Python
 
 ### 📫 Contact
 - **LinkedIn:** _coming soon_  
-- **Email:** _(agrega tu correo si quieres)_  
+- **Email:** _Leonel.osorio18@gmail.com_  
 
 ---
 
