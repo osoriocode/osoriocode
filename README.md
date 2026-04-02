@@ -8,4 +8,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osoriocode&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osoriocode&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osoriocode&layout=compact&theme=dracula&hide_border=true)
