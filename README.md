@@ -6,6 +6,6 @@
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Osoriocode&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osoriocode&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 
-![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osoriocode&layout=compact&theme=dracula)
