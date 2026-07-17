@@ -38,6 +38,5 @@ HTML • CSS • JavaScript • Python
 ---
 
 ### 🚀 Future Additions
-- Featured projects section  
-- LinkedIn profile  
+- Featured projects section
 - Badges for tools and technologies  
