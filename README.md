@@ -13,11 +13,11 @@ I'm a Systems Engineering student from Venezuela, passionate about software deve
 C • C++ • Java • SQL Databases  
 
 **Current learning & personal projects:**  
-HTML • CSS • JavaScript • Python  
+HTML • CSS • JavaScript • PHP • Java  
 
 ### 📫 Contact
 - **LinkedIn:** _https://www.linkedin.com/in/osoriocode/_  
-- **Email:** _Leonel.osorio18@gmail.com_  
+- **Email:** _Leonel.osorio18@outlook.com_  
 
 ---
 
@@ -30,7 +30,7 @@ HTML • CSS • JavaScript • Python
 ---
 
 ### 🎯 Current Goals
-- Strengthen my skills in Java, Python and JavaScript  
+- Strengthen my skills in Java, PHP and JavaScript  
 - Build clean and minimalistic web projects  
 - Grow my GitHub portfolio with meaningful work  
 - Improve my understanding of databases and backend development  
